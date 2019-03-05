@@ -1,0 +1,54 @@
+.header{
+	background-color: red;
+	text-align: center;
+	padding: 30px;
+}
+.header h1{
+
+	color: blue;
+	font-size: 60px;
+
+}
+
+.menu{
+background-color: black;
+overflow: hidden;
+}
+
+.menu a {
+	float: left;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 16px;
+}
+
+.menu a:hover{
+
+	color: black;
+	background-color: white;
+
+}
+.izquierda{
+	float: left;
+	width: 70%;
+}
+.item{
+	background-color: green;
+	width: 100%;
+	padding: 20px;
+
+}
+.image{
+	width: 100%;
+}
+body{
+	background-color: #e5e5e5;
+}
+.derecha{
+	float: left;
+	width: 25%;
+	background-color: green;
+	padding-left: 20px;
+
+}
